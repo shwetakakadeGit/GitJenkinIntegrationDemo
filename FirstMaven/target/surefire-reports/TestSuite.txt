@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.459 s <<< FAILURE! - in TestSuite
+com.jbk.Syllabus.Syllaf  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: D:\SRK_Assignment\FirstMaven\chromedriver.exe
+	at com.jbk.Syllabus.Syllaf(Syllabus.java:16)
+
